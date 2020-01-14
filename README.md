@@ -1,5 +1,17 @@
 # Marvel App
 
+### Install
+
+```
+npm install
+```
+
+### Run
+
+```
+npm start
+```
+
 ### Available users
 
 - parker@email.com
